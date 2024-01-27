@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &1817795002231862267
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2751940414754658528, guid: b68f3e0e5cd40b147bf4ad4083f64bc2, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2751940414754658528, guid: b68f3e0e5cd40b147bf4ad4083f64bc2, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.45
+      objectReference: {fileID: 0}
+    - target: {fileID: 2751940414754658528, guid: b68f3e0e5cd40b147bf4ad4083f64bc2, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -4.11
+      objectReference: {fileID: 0}
+    - target: {fileID: 2751940414754658528, guid: b68f3e0e5cd40b147bf4ad4083f64bc2, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2751940414754658528, guid: b68f3e0e5cd40b147bf4ad4083f64bc2, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2751940414754658528, guid: b68f3e0e5cd40b147bf4ad4083f64bc2, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2751940414754658528, guid: b68f3e0e5cd40b147bf4ad4083f64bc2, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2751940414754658528, guid: b68f3e0e5cd40b147bf4ad4083f64bc2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2751940414754658528, guid: b68f3e0e5cd40b147bf4ad4083f64bc2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2751940414754658528, guid: b68f3e0e5cd40b147bf4ad4083f64bc2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4570460662617354196, guid: b68f3e0e5cd40b147bf4ad4083f64bc2, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4570460662617354196, guid: b68f3e0e5cd40b147bf4ad4083f64bc2, type: 3}
+      propertyPath: m_Instructions.m_Instructions.Array.size
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4570460662617354196, guid: b68f3e0e5cd40b147bf4ad4083f64bc2, type: 3}
+      propertyPath: m_Instructions.m_Instructions.Array.data[0]
+      value: 4187508166219268096
+      objectReference: {fileID: 0}
+    - target: {fileID: 4570460662617354196, guid: b68f3e0e5cd40b147bf4ad4083f64bc2, type: 3}
+      propertyPath: m_Instructions.m_Instructions.Array.data[1]
+      value: 4187508166219268146
+      objectReference: {fileID: 0}
+    - target: {fileID: 4570460662617354196, guid: b68f3e0e5cd40b147bf4ad4083f64bc2, type: 3}
+      propertyPath: m_Instructions.m_Instructions.Array.data[2]
+      value: 4187508166219268098
+      objectReference: {fileID: 0}
+    - target: {fileID: 4570460662617354196, guid: b68f3e0e5cd40b147bf4ad4083f64bc2, type: 3}
+      propertyPath: m_Instructions.m_Instructions.Array.data[3]
+      value: 4187508161575912049
+      objectReference: {fileID: 0}
+    - target: {fileID: 8355061457169564731, guid: b68f3e0e5cd40b147bf4ad4083f64bc2, type: 3}
+      propertyPath: m_Name
+      value: Woman (1) patrol
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b68f3e0e5cd40b147bf4ad4083f64bc2, type: 3}
