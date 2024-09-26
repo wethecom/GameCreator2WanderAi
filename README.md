@@ -1,4 +1,7 @@
 # Game Creator 2 Wander Ai
+this progect is dead as it dosnt wander in a desirable way.. there are usfful things
+in this code like waypoint marker editing and gizmos 
+
 Unity Game Creator 2 Wander Ai follows prefered paths randomly
 like walk main paths in a building or general walk sidewalks
 
